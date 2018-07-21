@@ -5,7 +5,7 @@ by GitPitch
 +++
 
 +++
-モダンな
+モダンなデータ分析基盤
 
 
 * Fluentd
@@ -15,3 +15,10 @@ by GitPitch
 * Kibana
 
 ---
+
+
+
+
+
+---
+
